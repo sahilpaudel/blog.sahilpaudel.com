@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Sahil's Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Welcome To Sahil's Blog
 
 # --- Navigation bar options --- #
 
@@ -43,21 +43,21 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Sahil Paudel
+  email: "sahilpaudel@yahoo.in"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  github: sahilpaudel    # eg. daattali
+  twitter: sahil_paudel   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  linkedin: sahilpaudel  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
+  instagram: thehighpaudel # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  telephone: 9876996015   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
@@ -141,14 +141,29 @@ defaults:
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
 
+safe: false
+lsi: false
+username: sahilpaudel
+repo: blog.sahilpaudel.com
+branch: master
+relative_source: ../blog.sahilpaudel.com/
+destination: ../blog.sahilpaudel.com-pages/
+production_url: http://blog.sahilpaudel.com/
+source_url: http://blog.sahilpaudel.com/
+
 # Exclude these files from production site
 exclude:
+  - Rakefile
+  - changelog.md
+  - "*.Rmd"
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
   - Vagrantfile
+  - .travis.yml
+  - vendor
 
 # prose.io config
 prose:
