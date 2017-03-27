@@ -10,6 +10,7 @@ install:
   - bundle install
 
 script: "bundle exec rake site:deploy --quiet --trace"
+script: "bundle clean --force"
 
 # Generate your secure token with the travis gem:
 # get Github token from your Travis CI profile page
