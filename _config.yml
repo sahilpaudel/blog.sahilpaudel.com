@@ -45,18 +45,18 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Sahil Paudel
   email: "sahilpaudel@yahoo.in"
-  facebook: yourname  # eg. daattali
+  facebook: sahil.paudel  # eg. daattali
   github: sahilpaudel    # eg. daattali
   twitter: sahil_paudel   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: sahilpaudel  # eg. daattali
   xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
+  stackoverflow: sahilpaudel  # eg. "3943160/daattali"
+  snapchat: spaudel96  # eg. daattali
   instagram: thehighpaudel # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+  spotify: sahilpaudel   # eg. daattali
   telephone: 9876996015   # eg. +14159998888
 
 # Select which links to show in the footer
@@ -68,14 +68,14 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
-  snapchat: false
-  instagram: false
+  snapchat: true
+  instagram: true
   youtube: false
-  spotify: false
-  telephone: false
+  spotify: true
+  telephone: true
 
 # Select which share links to show in posts
 share-links-active:
