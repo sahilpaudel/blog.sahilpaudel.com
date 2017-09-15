@@ -52,7 +52,11 @@ author:
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: sahilpaudel  # eg. daattali
   xing: yourname      # eg. daattali
+<<<<<<< HEAD
   stackoverflow: yourlink  # eg. "3943160/daattali"
+=======
+  stackoverflow: sahilpaudel  # eg. "3943160/daattali"
+>>>>>>> dcff8f550733d7baca1e555315e1c9a5b0d110ae
   snapchat: spaudel96  # eg. daattali
   instagram: thehighpaudel # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
@@ -70,12 +74,21 @@ footer-links-active:
   reddit: false
   linkedin: true
   xing: false
+<<<<<<< HEAD
   stackoverflow: true
   snapchat: false
   instagram: true
   youtube: false
   spotify: true
   telephone: false
+=======
+  stackoverflow: false
+  snapchat: true
+  instagram: true
+  youtube: false
+  spotify: true
+  telephone: true
+>>>>>>> dcff8f550733d7baca1e555315e1c9a5b0d110ae
 
 # Select which share links to show in posts
 share-links-active:
