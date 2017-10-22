@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bangalore Expedition :)
-image: /img/monkeystatue.jpg
+image: /img/avatar-icon.png
 tags: [Cubbon-Park,HAL-Aerospace-Museum, Jawaharlal-Nehru-Planeterium]
 ---
 
