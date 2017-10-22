@@ -25,4 +25,6 @@ Great place for _aerospace_ and _fighter plane_ fans, indeed it was amazing to s
 ### LalBagh Botanical Garden
 Another peaceful site, away from noisy town with bunch of green tree, pines, well maintained gardens, collections of flowers and lake with **Lotus**. It is good place where you come with someone you want to talk and relax on a fine evening.
 
-![Testing Image Upload](/img/sahilpaudel.jpg){:class="img-thumbnail"}
+![Tipu Sultan Statue](/img/horsestatue.JPG){:class="img-thumbnail"}
+![Red Flower](/img/flower.JPG){:class="img-thumbnail"}
+![2 Monkeys](/img/monkeystatue.jpg){:class="img-thumbnail"}
