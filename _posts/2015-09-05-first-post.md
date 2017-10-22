@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bangalore Diaries!
+title: Bangalore Expedition :)
 image: /img/monkeystatue.jpg
-tags: [Cubbon-Park,HAL-Museum, Jawaharlal-Nehru-Planeterium]
+tags: [Cubbon-Park,HAL-Aerospace-Museum, Jawaharlal-Nehru-Planeterium]
 ---
 
 It has been more than a month being at Bangalore, all the way from Punjab.
