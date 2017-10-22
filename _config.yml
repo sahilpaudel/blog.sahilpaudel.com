@@ -25,10 +25,9 @@ description: Welcome To Sahil's Blog
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "#"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -45,18 +44,18 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Sahil Paudel
   email: "sahilpaudel@yahoo.in"
-  facebook: sahil.paudel  # eg. daattali
-  github: sahilpaudel    # eg. daattali
-  twitter: sahil_paudel   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: sahilpaudel  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: sahilpaudel  # eg. "3943160/daattali"
-  snapchat: spaudel96  # eg. daattali
-  instagram: thehighpaudel # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: sahilpaudel   # eg. daattali
+  facebook: sahil.paudel  # eg. spaudel
+  github: sahilpaudel    # eg. spaudel
+  twitter: sahil_paudel   # eg. spaudel
+  reddit: yourname    # eg. spaudel
+  google-plus: +yourname   # eg. +SahilPaudel
+  linkedin: sahilpaudel  # eg. spaudel
+  xing: yourname      # eg. spaudel
+  stackoverflow: sahilpaudel  # eg. "3943160/spaudel"
+  snapchat: spaudel96  # eg. spaudel
+  instagram: thehighpaudel # eg. spaudel
+  youtube: yourlink   # eg. user/spaudel or channel/spaudel
+  spotify: sahilpaudel   # eg. spaudel
   telephone: 9876996015   # eg. +14159998888
 
 # Select which links to show in the footer
