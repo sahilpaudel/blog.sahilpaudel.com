@@ -6,4 +6,4 @@ tags: [random, exciting-stuff]
 ---
 
 Hello This is Sahil, and this is my first post, how exciting!
-![image-title-here](/img/sahilpaudel.jpg){:class="img-responsive"}
+![Testing Image Upload](/img/sahilpaudel.jpg){:class="img-thumbnail"}{:height="400px"}
